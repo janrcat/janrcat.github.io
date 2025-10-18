@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Donnie Darko on Frank the Rabbit</title>
-    <link>https://janrcat.github.io/hugo-website/tags/donnie-darko/</link>
+    <link>https://janrcat.github.io/tags/donnie-darko/</link>
     <description>Recent content in Donnie Darko on Frank the Rabbit</description>
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://janrcat.github.io/hugo-website/tags/donnie-darko/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://janrcat.github.io/tags/donnie-darko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Temporal Disturbance and Applied Paradoxology: A Case Study of Frank the Rabbit</title>
-      <link>https://janrcat.github.io/hugo-website/papers/paper1/</link>
+      <link>https://janrcat.github.io/papers/paper1/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://janrcat.github.io/hugo-website/papers/paper1/</guid>
+      <guid>https://janrcat.github.io/papers/paper1/</guid>
       <description>A darkly satirical exploration of nonlinear causality, prophetic insomnia, and jet-engine meteorology as illustrated in Richard Kelly’s *Donnie Darko* (2001).</description>
     </item>
   </channel>

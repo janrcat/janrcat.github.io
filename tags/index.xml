@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Frank the Rabbit</title>
-    <link>https://janrcat.github.io/hugo-website/tags/</link>
+    <link>https://janrcat.github.io/tags/</link>
     <description>Recent content in Tags on Frank the Rabbit</description>
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://janrcat.github.io/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://janrcat.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cinema</title>
-      <link>https://janrcat.github.io/hugo-website/tags/cinema/</link>
+      <link>https://janrcat.github.io/tags/cinema/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://janrcat.github.io/hugo-website/tags/cinema/</guid>
+      <guid>https://janrcat.github.io/tags/cinema/</guid>
       <description></description>
     </item>
     <item>
       <title>Donnie Darko</title>
-      <link>https://janrcat.github.io/hugo-website/tags/donnie-darko/</link>
+      <link>https://janrcat.github.io/tags/donnie-darko/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://janrcat.github.io/hugo-website/tags/donnie-darko/</guid>
+      <guid>https://janrcat.github.io/tags/donnie-darko/</guid>
       <description></description>
     </item>
     <item>
       <title>Paradox</title>
-      <link>https://janrcat.github.io/hugo-website/tags/paradox/</link>
+      <link>https://janrcat.github.io/tags/paradox/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://janrcat.github.io/hugo-website/tags/paradox/</guid>
+      <guid>https://janrcat.github.io/tags/paradox/</guid>
       <description></description>
     </item>
     <item>
       <title>Time Travel</title>
-      <link>https://janrcat.github.io/hugo-website/tags/time-travel/</link>
+      <link>https://janrcat.github.io/tags/time-travel/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://janrcat.github.io/hugo-website/tags/time-travel/</guid>
+      <guid>https://janrcat.github.io/tags/time-travel/</guid>
       <description></description>
     </item>
   </channel>

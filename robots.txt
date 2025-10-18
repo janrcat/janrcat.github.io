@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://janrcat.github.io/hugo-website/sitemap.xml
+Sitemap: https://janrcat.github.io/sitemap.xml
